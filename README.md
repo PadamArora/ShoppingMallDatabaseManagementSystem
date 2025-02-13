@@ -1,4 +1,4 @@
-**# Shopping Mall Database Management System**
+## **Shopping Mall Database Management System**
 
 ## **Project Description**
 
