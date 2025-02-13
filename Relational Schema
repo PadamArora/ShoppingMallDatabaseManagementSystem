@@ -3,11 +3,12 @@ Relational Schema
 Stores (Store_ID, Store_Name, Category, Location)
 
 Employees (Emp_ID, Emp_Name, Date_of_Birth, Emp_Salary, Contact_Number, Mgr_ID, Store_ID)
-
+        
 Inventory (Product_ID, Product_Name, Category, Price, Quantity, Store_ID)
-
+      
 Promotions (Promotion_ID, Promotion_Name, Start_Date, End_Date, Discount_Percentage, Store_ID)
 
 Customers (Cust_ID, Cust_Name, Contact_Number)
 
 Transactions (Trans_ID, Cust_ID, Store_ID)
+
