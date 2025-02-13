@@ -1,4 +1,4 @@
-**Relational Schema**
+Relational Schema
 
 Stores (Store_ID, Store_Name, Category, Location)
 
