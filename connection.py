@@ -1,10 +1,11 @@
 import pymysql
 
 # Establish connection
+# Note : USE YOUR OWN CREDENTIALS
 connection = pymysql.connect(
     host='localhost',
     user='root',
-    password='12345678',
+    password='********', #change password
     database='shopping_mall'
 )
 
