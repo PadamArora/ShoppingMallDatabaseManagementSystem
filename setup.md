@@ -1,8 +1,5 @@
 # Shopping Mall DBMS Project - Setup Guide
 
-## Repository Link
-This project is hosted on GitHub: [Shopping Mall DBMS Project](https://github.com/PadamArora/ShoppingMallDatabaseManagementSystem)
-
 ## Steps to Set Up and Run the Project
 
 ### 1. **Download the Required Files**
